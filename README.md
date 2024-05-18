@@ -3,10 +3,10 @@
 
 ## 🚀 스터디 아카이브
 
-- 2024.05 ~ 2024.06 : 켄트 벡의 Tidy First? 독서 모임 참여
+- 2024.05 ~ 2024.06 : 켄트 벡의 Tidy First? 독서 모임 참여 (스터디장)
 - 2024.05 ~ 2024.05 : [THE BOOK READERS 모임] TDD에 대한 오해와 진실 TDD 이야기 독서 모임 참여
 - 2024.03 ~ 2024.05 : [THE BOOK READERS 모임] [에릭 에반스의 도메인 주도 설계 독서 모임](https://github.com/THE-BOOK-READERS/Eric-Evans-DDD) 참여
-- 2024.02 ~ 2024.05 : [모던 자바 인 액션 독서 모임](https://www.notion.so/e388b48c6e3240eaa3349298afcefe25?pvs=4) 참여
+- 2024.02 ~ 2024.05 : [모던 자바 인 액션 독서 모임](https://www.notion.so/e388b48c6e3240eaa3349298afcefe25?pvs=4) 참여 (스터디장)
 - 2024.01 ~ 2024.02 : [THE BOOK READERS 모임] 반 버논의 도메인 주도 설계 구현 독서 모임 참여
 - 2023.10 ~ 2024.01 : Real MySQL 1권 참여
 - 2023.08 ~ 2023.09 : 가상 면접 사례로 배우는 대규모 시스템 설계 기초 참여
